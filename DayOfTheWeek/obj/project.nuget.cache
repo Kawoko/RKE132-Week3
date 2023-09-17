@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mmNLsldr2hOzDrdPxPJ17o5Gs74hu/ZselJjdfwdEs2wKifvNl2A+pe+lkIgSH8G/6DBFEKcoSt4AERCYwT7xg==",
+  "dgSpecHash": "ANO5Tr5q49FeohqSQNB/VYVacHWpvLnZhmnebZokqlGZFNyvRkYtaUT9JgRBDgjX8lLEWRH6Esbpz2ZL2AVPRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Onoca\\source\\repos\\Week3IfAndSwitch\\DayOfTheWeek\\DayOfTheWeek.csproj",
+  "projectFilePath": "C:\\Users\\Onoca\\source\\repos\\Week3IfAndSwitch\\DayOfTheWeek\\SwitchDayOfTheWeek.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

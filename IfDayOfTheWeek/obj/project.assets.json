@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Onoca\\source\\repos\\Week3IfAndSwitch\\DayOfTheWeek\\SwitchDayOfTheWeek.csproj",
-      "projectName": "SwitchDayOfTheWeek",
-      "projectPath": "C:\\Users\\Onoca\\source\\repos\\Week3IfAndSwitch\\DayOfTheWeek\\SwitchDayOfTheWeek.csproj",
+      "projectUniqueName": "C:\\Users\\Onoca\\source\\repos\\Week3IfAndSwitch\\IfDayOfTheWeek\\IfDayOfTheWeek.csproj",
+      "projectName": "IfDayOfTheWeek",
+      "projectPath": "C:\\Users\\Onoca\\source\\repos\\Week3IfAndSwitch\\IfDayOfTheWeek\\IfDayOfTheWeek.csproj",
       "packagesPath": "C:\\Users\\Onoca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Onoca\\source\\repos\\Week3IfAndSwitch\\DayOfTheWeek\\obj\\",
+      "outputPath": "C:\\Users\\Onoca\\source\\repos\\Week3IfAndSwitch\\IfDayOfTheWeek\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Onoca\\AppData\\Roaming\\NuGet\\NuGet.Config",
